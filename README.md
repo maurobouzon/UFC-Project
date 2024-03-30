@@ -1,4 +1,4 @@
-# Web Scraping UFC Data with R
+# 🥊 Web Scraping UFC Data with R 🥊
 
 In this project, we utilized R and rvest to scrape data from "ufcstats.com". Tidyverse aided in data manipulation.
 
