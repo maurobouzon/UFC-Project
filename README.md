@@ -1,4 +1,5 @@
 # 🥊🕷️ Web Scraping UFC Data with R 🕷️🥊
+[![](https://i.postimg.cc/1zFYpB67/303-Khabib-Nurmagomedov-vs-Conor-Mc-Gregor.jpg)](https://postimg.cc/p92ZvDsK)
 
 In this project, we utilized R and rvest to scrape data from "ufcstats.com". Tidyverse aided in data manipulation.
 
