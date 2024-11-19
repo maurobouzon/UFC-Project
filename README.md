@@ -1,4 +1,4 @@
-# 🥊🕷️ Web Scraping UFC Data with R 🕷️🥊
+# 🥊🕷️ Web Scraping UFC Data with R and Power BI🕷️🥊
 [![ufc.png](https://i.postimg.cc/0jpnfq1k/ufc.png)](https://postimg.cc/jnSyxmjm)
 
 In this project, I utilized R and rvest to scrape data from "ufcstats.com". Tidyverse aided in data manipulation.
